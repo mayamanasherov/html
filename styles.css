@@ -1,0 +1,80 @@
+
+h1 {
+	text-align:center;
+}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding:2px;
+	width: 250px;
+}
+
+
+body {
+    background-image: url('images/2029-blue-sky-background-border.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+	font-family :cursive; 
+}
+
+
+.font {
+	font-size:45px;
+}
+
+img.middle {
+	vertical-align: middle;
+}
+
+h2{
+	text-align:center;
+}
+
+.center {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+}
+
+ p{
+	 position:relative;
+	 margin:20px;
+	 margin-left:50px;
+ }
+ 
+ 
+ .text-bullet-centered{
+	 position:apsolut;
+	 left:40px;
+	 top:50%;
+	 transform:translate(0%,-50%);
+	 font-weight:bold,
+ }
+	 
+	 
+.parent { 
+	text-align:center;
+}
+ 
+ .parent >ul {
+	display:inline-block;
+	list-style-position:inside;
+}  
+  
+ ol{	
+	text-align: center;
+	list-style-position:inside;
+ }
+
+
+
+
+
+
+
+
+
+
